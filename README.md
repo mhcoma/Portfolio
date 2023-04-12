@@ -2,6 +2,7 @@
 
 ## Robmaz
 https://github.com/mhcoma/Sotsugyo
+[https://github.com/mhcoma/Sotsugyo/robmaz.pdf](PDF)
 * 2022 강남대학교 가상현실전공 졸업작품.
 * Unity 3D 프로젝트.
 
