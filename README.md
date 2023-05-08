@@ -7,7 +7,7 @@
 * 2022 강남대학교 가상현실전공 졸업작품.
 * Unity 2021.3.11 f1
 
-# Unity Water Shader
+## Unity Water Shader
 * [레포지토리](https://github.com/mhcoma/unity_watershader)
 * [시연 영상](https://www.youtube.com/watch?v=RryfrPd-2-4)
 * [PDF](https://github.com/mhcoma/Portfolio/blob/master/water_shader.pdf)
