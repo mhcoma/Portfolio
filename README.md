@@ -7,6 +7,13 @@
 * 2022 강남대학교 가상현실전공 졸업작품.
 * Unity 2021.3.11 f1
 
+## Number Bowling
+* [Google Play](https://play.google.com/store/apps/details?id=com.mondayoff.numberbowling)
+* [App Store](https://apps.apple.com/us/app/number-bowling/id6454848677)
+* [시연 영상](https://www.youtube.com/watch?v=QNFJfsYk-IA)
+* MondayOFF 인턴 재직 중 기획/개발/출시 담당.
+* Unity 2021.3.30 f1
+
 ## Unity Water Shader
 * [레포지토리](https://github.com/mhcoma/unity_watershader)
 * [시연 영상](https://www.youtube.com/watch?v=RryfrPd-2-4)
